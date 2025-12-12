@@ -268,7 +268,7 @@ async function helpCommand(sock, chatId, message) {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029VbAYbkdA2pLCiCORBM1t@newsletter',
+                        newsletterJid: '120363420118357923@newsletter',
                         newsletterName: 'KRISSH',
                         serverMessageId: -1
                     }
@@ -282,7 +282,7 @@ async function helpCommand(sock, chatId, message) {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '0029VbAYbkdA2pLCiCORBM1t@newsletter',
+                        newsletterJid: '120363420118357923@newsletter',
                         newsletterName: 'KRISSH by Malengoallunkown',
                         serverMessageId: -1
                     } 

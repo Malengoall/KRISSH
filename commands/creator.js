@@ -7,7 +7,7 @@ const creator = {
     location: "Tanzania🇹🇿",
     
     social: {
-        instagram: "https://instagram.com/malengoall Tech",
+        instagram: "https://instagram.com/malengoall",
         github: ".https://github.com/Malengoall", 
         youtube: "https://youtube.com/Malengoall"
     },
@@ -32,7 +32,7 @@ async function creatorCommand(sock, chatId) {
         // Create a cool ASCII art banner
         const banner = `
 ╔══════════════════════════════════════╗
-║             👑 CREATOR PROFILE       ║
+║             👑 MALENGOALLL CREATOR PROFILE       ║
 ╚══════════════════════════════════════╝
         `.trim();
 
@@ -84,8 +84,8 @@ ${creator.message}
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363401269012709@newsletter',
-                    newsletterName: '404 XMD',
+                    newsletterJid: '120363420118357923@newsletter',
+                    newsletterName:`CREATOR,
                     serverMessageId: -1
                 }
             }
